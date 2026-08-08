@@ -22,7 +22,9 @@ billetterie, espace d'administration.
 
 <div align="center">
 
-[![Statistiques de Core](https://github-readme-stats.vercel.app/api?username=Core-Agency&show_icons=true&hide_border=true&bg_color=00000000&title_color=13BFB3&icon_color=13BFB3&text_color=888888&custom_title=Activité%20de%20Core%20sur%20GitHub)](https://github.com/Core-Agency)
+![Abonnés](https://img.shields.io/github/followers/Core-Agency?style=for-the-badge&label=abonn%C3%A9s&color=13BFB3&labelColor=1A1A1A)
+![Étoiles](https://img.shields.io/github/stars/Core-Agency?affiliations=OWNER&style=for-the-badge&label=%C3%A9toiles&color=13BFB3&labelColor=1A1A1A)
+![Dernière activité](https://img.shields.io/github/last-commit/Core-Agency/Core-Agency?style=for-the-badge&label=derni%C3%A8re%20activit%C3%A9&color=13BFB3&labelColor=1A1A1A)
 
 </div>
 
