@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/core-mark-192.png" width="86" height="86" alt="Marque de Core">
+
 # Core
 
 **Agence digitale — création et refonte de sites web**
