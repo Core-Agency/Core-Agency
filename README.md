@@ -22,6 +22,8 @@ billetterie, espace d'administration.
 
 <div align="center">
 
+![Commits](https://img.shields.io/github/commit-activity/t/Core-Agency/Core-Agency?style=for-the-badge&label=commits&color=13BFB3&labelColor=1A1A1A)
+![Pull requests](https://img.shields.io/github/issues-pr-closed/Core-Agency/Core-Agency?style=for-the-badge&label=pull%20requests&color=13BFB3&labelColor=1A1A1A)
 ![Abonnés](https://img.shields.io/github/followers/Core-Agency?style=for-the-badge&label=abonn%C3%A9s&color=13BFB3&labelColor=1A1A1A)
 ![Étoiles](https://img.shields.io/github/stars/Core-Agency?affiliations=OWNER&style=for-the-badge&label=%C3%A9toiles&color=13BFB3&labelColor=1A1A1A)
 ![Dernière activité](https://img.shields.io/github/last-commit/Core-Agency/Core-Agency?style=for-the-badge&label=derni%C3%A8re%20activit%C3%A9&color=13BFB3&labelColor=1A1A1A)
