@@ -115,6 +115,22 @@ elles coûtent des secondes de chargement pour rien. Sur une image de test :
 [**Essayer la démo**](https://core-agency.github.io/poids-plume/) ·
 [le code](https://github.com/Core-Agency/poids-plume)
 
+<br>
+
+### Compte juste
+
+[![Licence](https://img.shields.io/github/license/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste/stargazers)
+
+Les cinq calculs qu'une entreprise belge refait chaque semaine : TVA hors et
+toutes taxes, **communication structurée** d'une facture, clé d'un numéro
+d'entreprise BCE, contrôle d'IBAN, intérêts de retard. Dix-huit contrôles
+automatisés, dont les valeurs de référence publiques.
+
+[**Essayer la démo**](https://core-agency.github.io/compte-juste/) ·
+[le code](https://github.com/Core-Agency/compte-juste)
+
 ---
 
 ## Réalisations
