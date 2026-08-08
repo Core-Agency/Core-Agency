@@ -11,32 +11,41 @@ Charleroi, Belgique
 
 </div>
 
----
-
 Nous concevons des sites pour les commerces et les clubs : restaurants, bars,
 crêperies, salles de sport, clubs sportifs. Chaque projet est écrit à la main,
-sans framework ni générateur. Le résultat se charge vite, se référence bien,
-et reste modifiable dix ans plus tard sans dépendre d'un outil qui aura
-disparu.
+sans framework ni générateur — le résultat se charge vite, se référence bien,
+et reste modifiable dans dix ans sans dépendre d'un outil qui aura disparu.
 
 Au-delà de la vitrine, nous construisons ce qui fait tourner la maison :
 commande à table par QR code, console de cuisine sur tablette, réservation,
 billetterie, espace d'administration.
 
-## Ce que nous utilisons
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+[![Statistiques de Core](https://github-readme-stats.vercel.app/api?username=Core-Agency&show_icons=true&hide_border=true&bg_color=00000000&title_color=13BFB3&icon_color=13BFB3&text_color=888888&custom_title=Activité%20de%20Core%20sur%20GitHub)](https://github.com/Core-Agency)
+
+</div>
+
+## Compétences
+
+| Ce que nous maîtrisons | Ce que nous approfondissons | Dans les cartons |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=supabase,postgres,cloudflare&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="40"> | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="40"> | <img src="https://skillicons.dev/icons?i=ts,svelte&theme=dark" height="40"> |
 
 Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
+
+## Nos outils
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</div>
 
 ---
 
