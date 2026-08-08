@@ -7,7 +7,7 @@
 Charleroi, Belgique
 
 [![Site](https://img.shields.io/badge/core--agency.be-13BFB3?style=for-the-badge&logoColor=white)](https://core-agency.be)
-[![Contact](https://img.shields.io/badge/contact@core--agency.be-1A1A1A?style=for-the-badge&logoColor=white)](mailto:contact@core-agency.be)
+[![Contact](https://img.shields.io/badge/contact@core--agency.be-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@core-agency.be)
 
 </div>
 
@@ -32,9 +32,37 @@ billetterie, espace d'administration.
 
 ## Compétences
 
-| Ce que nous maîtrisons | Ce que nous approfondissons | Dans les cartons |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=supabase,postgres,cloudflare&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" height="40"> | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" height="40"><br><img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" height="40"> | <img src="https://skillicons.dev/icons?i=ts,svelte&theme=dark" height="40"> |
+<table>
+  <tr>
+    <th align="left">Ce que nous maîtrisons</th>
+    <th align="left">Ce que nous approfondissons</th>
+    <th align="left">Dans les cartons</th>
+  </tr>
+  <tr valign="top">
+    <td>
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"><br>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"><br>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><br>
+      <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white"><br>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </td>
+    <td>
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br>
+      <img alt="Android" src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"><br>
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><br>
+      <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+    </td>
+    <td>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
+      <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"><br>
+      <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
@@ -42,14 +70,30 @@ Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## Open source
+
+### Facturier
+
+[![Licence](https://img.shields.io/github/license/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier/stargazers)
+
+Générateur de factures et de devis qui tient en trois fichiers. Aucune
+dépendance, **aucune requête réseau** : ouvrez la page en mode avion, elle
+fonctionne. TVA belge groupée par taux, régime de la franchise, remise
+répartie au prorata, export PDF par l'impression du navigateur.
+
+**[Core-Agency/facturier](https://github.com/Core-Agency/facturier)**
 
 ---
 
