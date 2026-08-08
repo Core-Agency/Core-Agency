@@ -93,7 +93,8 @@ dépendance, **aucune requête réseau** : ouvrez la page en mode avion, elle
 fonctionne. TVA belge groupée par taux, régime de la franchise, remise
 répartie au prorata, export PDF par l'impression du navigateur.
 
-**[Core-Agency/facturier](https://github.com/Core-Agency/facturier)**
+[**Essayer la démo**](https://core-agency.github.io/facturier/) ·
+[le code](https://github.com/Core-Agency/facturier)
 
 ---
 
