@@ -96,6 +96,23 @@ répartie au prorata, export PDF par l'impression du navigateur.
 [**Essayer la démo**](https://core-agency.github.io/facturier/) ·
 [le code](https://github.com/Core-Agency/facturier)
 
+<br>
+
+### Poids plume
+
+[![Licence](https://img.shields.io/github/license/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume/stargazers)
+
+Redimensionne et convertit les images en WebP, JPEG ou PNG **dans le
+navigateur** — aucun téléversement. Les photos qu'un client envoie pèsent
+4 Mo pour 3 000 pixels de large ; affichées dans une carte de 400 pixels,
+elles coûtent des secondes de chargement pour rien. Sur une image de test :
+1,68 Mo ramenés à 87 Ko, soit 95 % de gain.
+
+[**Essayer la démo**](https://core-agency.github.io/poids-plume/) ·
+[le code](https://github.com/Core-Agency/poids-plume)
+
 ---
 
 ## Réalisations
