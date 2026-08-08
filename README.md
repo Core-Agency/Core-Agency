@@ -6,7 +6,7 @@
 
 Charleroi, Belgique
 
-[![Site](https://img.shields.io/badge/core--agency.be-13BFB3?style=for-the-badge&logoColor=white)](https://core-agency.be)
+[![Site](https://img.shields.io/badge/core--agency.be-6355E0?style=for-the-badge&logoColor=white)](https://core-agency.be)
 [![Contact](https://img.shields.io/badge/contact@core--agency.be-1A1A1A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@core-agency.be)
 
 </div>
@@ -22,11 +22,11 @@ billetterie, espace d'administration.
 
 <div align="center">
 
-![Commits](https://img.shields.io/github/commit-activity/t/Core-Agency/Core-Agency?style=for-the-badge&label=commits&color=13BFB3&labelColor=1A1A1A)
-![Pull requests](https://img.shields.io/github/issues-pr-closed/Core-Agency/Core-Agency?style=for-the-badge&label=pull%20requests&color=13BFB3&labelColor=1A1A1A)
-![Abonnés](https://img.shields.io/github/followers/Core-Agency?style=for-the-badge&label=abonn%C3%A9s&color=13BFB3&labelColor=1A1A1A)
-![Étoiles](https://img.shields.io/github/stars/Core-Agency?affiliations=OWNER&style=for-the-badge&label=%C3%A9toiles&color=13BFB3&labelColor=1A1A1A)
-![Dernière activité](https://img.shields.io/github/last-commit/Core-Agency/Core-Agency?style=for-the-badge&label=derni%C3%A8re%20activit%C3%A9&color=13BFB3&labelColor=1A1A1A)
+![Commits](https://img.shields.io/github/commit-activity/t/Core-Agency/Core-Agency?style=for-the-badge&label=commits&color=6355E0&labelColor=1A1A1A)
+![Pull requests](https://img.shields.io/github/issues-pr-closed/Core-Agency/Core-Agency?style=for-the-badge&label=pull%20requests&color=6355E0&labelColor=1A1A1A)
+![Abonnés](https://img.shields.io/github/followers/Core-Agency?style=for-the-badge&label=abonn%C3%A9s&color=6355E0&labelColor=1A1A1A)
+![Étoiles](https://img.shields.io/github/stars/Core-Agency?affiliations=OWNER&style=for-the-badge&label=%C3%A9toiles&color=6355E0&labelColor=1A1A1A)
+![Dernière activité](https://img.shields.io/github/last-commit/Core-Agency/Core-Agency?style=for-the-badge&label=derni%C3%A8re%20activit%C3%A9&color=6355E0&labelColor=1A1A1A)
 
 </div>
 
@@ -84,9 +84,9 @@ Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
 ### Facturier
 
-[![Licence](https://img.shields.io/github/license/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier/blob/main/LICENSE)
-[![Langage](https://img.shields.io/github/languages/top/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier)
-[![Étoiles](https://img.shields.io/github/stars/Core-Agency/facturier?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/facturier/stargazers)
+[![Licence](https://img.shields.io/github/license/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier/stargazers)
 
 Générateur de factures et de devis qui tient en trois fichiers. Aucune
 dépendance, **aucune requête réseau** : ouvrez la page en mode avion, elle
@@ -100,9 +100,9 @@ répartie au prorata, export PDF par l'impression du navigateur.
 
 ### Poids plume
 
-[![Licence](https://img.shields.io/github/license/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume/blob/main/LICENSE)
-[![Langage](https://img.shields.io/github/languages/top/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume)
-[![Étoiles](https://img.shields.io/github/stars/Core-Agency/poids-plume?style=flat-square&color=13BFB3)](https://github.com/Core-Agency/poids-plume/stargazers)
+[![Licence](https://img.shields.io/github/license/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume/stargazers)
 
 Redimensionne et convertit les images en WebP, JPEG ou PNG **dans le
 navigateur** — aucun téléversement. Les photos qu'un client envoie pèsent
@@ -119,7 +119,7 @@ elles coûtent des secondes de chargement pour rien. Sur une image de test :
 
 ### Vanilla Crêperie — Marcinelle
 
-![En ligne](https://img.shields.io/badge/en%20ligne-13BFB3?style=flat-square)
+![En ligne](https://img.shields.io/badge/en%20ligne-6355E0?style=flat-square)
 ![Commande QR](https://img.shields.io/badge/commande%20QR-1A1A1A?style=flat-square)
 ![Console tablette](https://img.shields.io/badge/console%20tablette-1A1A1A?style=flat-square)
 ![Application Android](https://img.shields.io/badge/application%20Android-1A1A1A?style=flat-square)
@@ -137,7 +137,7 @@ table.
 
 ### Dolce Coffee — Charleroi
 
-![En ligne](https://img.shields.io/badge/en%20ligne-13BFB3?style=flat-square)
+![En ligne](https://img.shields.io/badge/en%20ligne-6355E0?style=flat-square)
 ![Commande QR](https://img.shields.io/badge/commande%20QR-1A1A1A?style=flat-square)
 ![Fiches produit](https://img.shields.io/badge/fiches%20produit-1A1A1A?style=flat-square)
 ![Console tablette](https://img.shields.io/badge/console%20tablette-1A1A1A?style=flat-square)
@@ -168,7 +168,7 @@ galerie, et le même socle de commande à table que Vanilla.
 
 **Un projet ?**
 
-[![Écrire à Core](https://img.shields.io/badge/Nous%20écrire-13BFB3?style=for-the-badge&logoColor=white)](mailto:contact@core-agency.be)
+[![Écrire à Core](https://img.shields.io/badge/Nous%20écrire-6355E0?style=for-the-badge&logoColor=white)](mailto:contact@core-agency.be)
 [![Voir le site](https://img.shields.io/badge/core--agency.be-1A1A1A?style=for-the-badge&logoColor=white)](https://core-agency.be)
 
 </div>
