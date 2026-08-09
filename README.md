@@ -131,6 +131,23 @@ automatisés, dont les valeurs de référence publiques.
 [**Essayer la démo**](https://core-agency.github.io/core-calculs/) ·
 [le code](https://github.com/Core-Agency/core-calculs)
 
+<br>
+
+### Core — Mentions légales
+
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-mentions-legales?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-mentions-legales/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-mentions-legales?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-mentions-legales)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-mentions-legales?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-mentions-legales/stargazers)
+
+Mentions légales et politique de confidentialité pour une entreprise belge :
+le numéro d'entreprise tient lieu de RPM, la franchise TVA cite l'art. 56*bis*,
+la réclamation va à l'Autorité de protection des données. Huit traitements à
+cocher, chacun avec sa base légale et sa durée. **Un modèle à faire relire**,
+pas un document prêt à publier.
+
+[**Essayer la démo**](https://core-agency.github.io/core-mentions-legales/) ·
+[le code](https://github.com/Core-Agency/core-mentions-legales)
+
 ---
 
 ## Réalisations
