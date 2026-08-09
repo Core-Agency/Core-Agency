@@ -84,27 +84,27 @@ Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
 ## Open source
 
-### Facturier
+### Core — Factures
 
-[![Licence](https://img.shields.io/github/license/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier/blob/main/LICENSE)
-[![Langage](https://img.shields.io/github/languages/top/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier)
-[![Étoiles](https://img.shields.io/github/stars/Core-Agency/facturier?style=flat-square&color=6355E0)](https://github.com/Core-Agency/facturier/stargazers)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-factures?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-factures/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-factures?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-factures)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-factures?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-factures/stargazers)
 
 Générateur de factures et de devis qui tient en trois fichiers. Aucune
 dépendance, **aucune requête réseau** : ouvrez la page en mode avion, elle
 fonctionne. TVA belge groupée par taux, régime de la franchise, remise
 répartie au prorata, export PDF par l'impression du navigateur.
 
-[**Essayer la démo**](https://core-agency.github.io/facturier/) ·
-[le code](https://github.com/Core-Agency/facturier)
+[**Essayer la démo**](https://core-agency.github.io/core-factures/) ·
+[le code](https://github.com/Core-Agency/core-factures)
 
 <br>
 
-### Poids plume
+### Core — Compression IMG
 
-[![Licence](https://img.shields.io/github/license/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume/blob/main/LICENSE)
-[![Langage](https://img.shields.io/github/languages/top/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume)
-[![Étoiles](https://img.shields.io/github/stars/Core-Agency/poids-plume?style=flat-square&color=6355E0)](https://github.com/Core-Agency/poids-plume/stargazers)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-compression-img?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-compression-img/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-compression-img?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-compression-img)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-compression-img?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-compression-img/stargazers)
 
 Redimensionne et convertit les images en WebP, JPEG ou PNG **dans le
 navigateur** — aucun téléversement. Les photos qu'un client envoie pèsent
@@ -112,24 +112,24 @@ navigateur** — aucun téléversement. Les photos qu'un client envoie pèsent
 elles coûtent des secondes de chargement pour rien. Sur une image de test :
 1,68 Mo ramenés à 87 Ko, soit 95 % de gain.
 
-[**Essayer la démo**](https://core-agency.github.io/poids-plume/) ·
-[le code](https://github.com/Core-Agency/poids-plume)
+[**Essayer la démo**](https://core-agency.github.io/core-compression-img/) ·
+[le code](https://github.com/Core-Agency/core-compression-img)
 
 <br>
 
-### Compte juste
+### Core — Calculs
 
-[![Licence](https://img.shields.io/github/license/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste/blob/main/LICENSE)
-[![Langage](https://img.shields.io/github/languages/top/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste)
-[![Étoiles](https://img.shields.io/github/stars/Core-Agency/compte-juste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/compte-juste/stargazers)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-calculs?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-calculs/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-calculs?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-calculs)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-calculs?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-calculs/stargazers)
 
 Les cinq calculs qu'une entreprise belge refait chaque semaine : TVA hors et
 toutes taxes, **communication structurée** d'une facture, clé d'un numéro
 d'entreprise BCE, contrôle d'IBAN, intérêts de retard. Dix-huit contrôles
 automatisés, dont les valeurs de référence publiques.
 
-[**Essayer la démo**](https://core-agency.github.io/compte-juste/) ·
-[le code](https://github.com/Core-Agency/compte-juste)
+[**Essayer la démo**](https://core-agency.github.io/core-calculs/) ·
+[le code](https://github.com/Core-Agency/core-calculs)
 
 ---
 
