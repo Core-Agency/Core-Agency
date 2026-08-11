@@ -82,7 +82,106 @@ Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
 ---
 
+## Douze services, quatre temps
+
+<table>
+  <tr>
+    <th align="left" width="15%">01 — Concevoir</th>
+    <td>Sites vitrines · Sites e-commerce · UI / UX Design<br>
+    <sub>Poser la structure, l'interface et le discours avant d'écrire la première ligne.</sub></td>
+  </tr>
+  <tr>
+    <th align="left">02 — Développer</th>
+    <td>Applications web · Développement sur mesure · Automatisation<br>
+    <sub>Commande à table, console de cuisine, réservation, billetterie, administration.</sub></td>
+  </tr>
+  <tr>
+    <th align="left">03 — Faire croître</th>
+    <td>Référencement SEO · Optimisation des performances · Intelligence artificielle<br>
+    <sub>Être trouvé par ceux qui cherchent déjà ce que vous faites.</sub></td>
+  </tr>
+  <tr>
+    <th align="left">04 — Faire durer</th>
+    <td>Maintenance · Hébergement · Accompagnement digital<br>
+    <sub>Un site qui ne tombe pas, et quelqu'un qui répond quand il tombe.</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+
+**[Voir les douze services en détail](https://core-agency.be/services/)**
+
+</div>
+
+---
+
 ## Open source
+
+Sept outils publics, tous écrits selon la même règle : **aucune dépendance,
+aucune requête réseau, aucun compte.** Ce sont les instruments que nous
+sortons pendant un chantier — un QR code à produire, un contraste à trancher,
+une facture à éditer. Ils sont ouverts parce qu'ils servent à d'autres.
+
+Chacun sort d'un besoin réel rencontré chez un client, et chacun porte son
+harnais de vérification : **327 contrôles automatisés** au total, rejoués sur
+trois versions de Node à chaque modification.
+
+### Core — QR
+
+[![Vérification](https://github.com/Core-Agency/core-qr/actions/workflows/verifier.yml/badge.svg)](https://github.com/Core-Agency/core-qr/actions/workflows/verifier.yml)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-qr?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-qr/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-qr?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-qr)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-qr?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-qr/stargazers)
+
+L'encodeur **ISO/IEC 18004** que nous avons écrit pour le système de commande
+à table du Maharaja, ouvert aux quatre niveaux de correction. Lien, Wi-Fi,
+contact ; réserve pour un logo **chiffrée en codets détruits contre codets
+réparables**, et non à l'estime ; planche d'autocollants numérotés prête à
+imprimer. Un décodeur indépendant, écrit pour le harnais, relit chacun des
+symboles produits.
+
+[**Essayer la démo**](https://core-agency.github.io/core-qr/) ·
+[le code](https://github.com/Core-Agency/core-qr)
+
+<br>
+
+### Core — SEO
+
+[![Vérification](https://github.com/Core-Agency/core-seo/actions/workflows/verifier.yml/badge.svg)](https://github.com/Core-Agency/core-seo/actions/workflows/verifier.yml)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-seo?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-seo/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-seo?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-seo)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-seo?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-seo/stargazers)
+
+Le titre, la description, les balises de partage et le JSON-LD d'un commerce
+belge, avec l'aperçu du résultat Google. Le titre est mesuré **en pixels et
+non en caractères**, parce que c'est ainsi que Google coupe. Horaires à deux
+services, adresse belge, numéro d'entreprise.
+
+**Cet outil ne produit aucune note ni aucun avis**, et un contrôle automatisé
+vérifie qu'il ne peut pas en produire : une note doit venir d'avis réels.
+
+[**Essayer la démo**](https://core-agency.github.io/core-seo/) ·
+[le code](https://github.com/Core-Agency/core-seo)
+
+<br>
+
+### Core — Contraste
+
+[![Vérification](https://github.com/Core-Agency/core-contraste/actions/workflows/verifier.yml/badge.svg)](https://github.com/Core-Agency/core-contraste/actions/workflows/verifier.yml)
+[![Licence](https://img.shields.io/github/license/Core-Agency/core-contraste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-contraste/blob/main/LICENSE)
+[![Langage](https://img.shields.io/github/languages/top/Core-Agency/core-contraste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-contraste)
+[![Étoiles](https://img.shields.io/github/stars/Core-Agency/core-contraste?style=flat-square&color=6355E0)](https://github.com/Core-Agency/core-contraste/stargazers)
+
+Le contraste de deux couleurs selon **WCAG 2.2** et selon **APCA**, sur des
+échantillons de texte réels. Quand un duo échoue, l'outil propose la couleur
+la plus proche qui passe — en ne déplaçant que la clarté OKLCH, pour que la
+teinte de la marque survive. Et une échelle de onze tons depuis une couleur de
+marque, chacun annonçant le texte qui se lit dessus.
+
+[**Essayer la démo**](https://core-agency.github.io/core-contraste/) ·
+[le code](https://github.com/Core-Agency/core-contraste)
+
+<br>
 
 ### Core — Factures
 
