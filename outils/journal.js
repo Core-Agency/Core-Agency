@@ -24,6 +24,12 @@ const LIGNES = 8;                     // entrées gardées dans le journal
 const DEBUT = "<!-- journal:début -->";
 const FIN = "<!-- journal:fin -->";
 
+/* Le journal ne se raconte pas lui-même. Sans cette exclusion, le commit
+   produit par ce script entrerait dans le tableau, ce qui le ferait
+   changer au passage suivant — et ainsi de suite : un commit par semaine
+   pour toujours, sans qu'aucun travail réel ait eu lieu. */
+const PREFIXE_JOURNAL = "Journal :";
+
 const README = path.join(__dirname, "..", "README.md");
 const essai = process.argv.includes("--essai");
 
@@ -72,10 +78,12 @@ async function main() {
       continue;
     }
     for (const c of commits) {
+      const titre = sujet(c.commit.message);
+      if (depot.name === PROPRIETAIRE && titre.startsWith(PREFIXE_JOURNAL)) continue;
       entrees.push({
         depot: depot.name,
         date: c.commit.author.date,
-        sujet: sujet(c.commit.message),
+        sujet: titre,
         url: c.html_url,
       });
     }
