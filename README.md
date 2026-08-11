@@ -32,6 +32,22 @@ billetterie, espace d'administration.
 
 </div>
 
+## L'atelier en un coup d'œil
+
+<div align="center">
+
+<img src="assets/activite.svg" alt="Calendrier des contributions des douze derniers mois" width="100%">
+
+<img src="assets/langages.svg" alt="Répartition des langages des dépôts publics" width="100%">
+
+</div>
+
+<sub>Ces deux images sont **dessinées par [`outils/graphiques.js`](outils/graphiques.js)**
+et versionnées dans ce dépôt. Aucune carte toute faite appelée chez un tiers :
+le jour où un de ces services tombe ou ferme, un profil qui en dépend affiche
+un cadre cassé — c'est exactement ce que nous reprochons aux constructeurs de
+pages.</sub>
+
 ## Compétences
 
 <table>

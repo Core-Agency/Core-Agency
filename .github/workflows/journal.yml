@@ -1,9 +1,16 @@
-# Reconstruit le journal du profil à partir des dépôts publics.
+# Reconstruit le journal et les graphiques du profil à partir des dépôts
+# publics et des contributions réelles.
 #
-# Le script n'écrit que si le contenu a réellement changé, et il ne
-# fabrique aucune date : une semaine sans travail ne produit donc aucun
-# commit. C'est voulu — un profil qui se réécrit tout seul pour dire la
-# même chose n'est pas actif, il est bruyant.
+# Le JOURNAL ne fabrique aucune date et exclut ses propres commits : une
+# semaine sans travail ne le fait pas bouger. C'est voulu — un tableau
+# qui se réécrit tout seul pour dire la même chose n'est pas de
+# l'activité, c'est du bruit.
+#
+# Les GRAPHIQUES, eux, changent chaque semaine par nature : le calendrier
+# porte une fenêtre de douze mois, et cette fenêtre glisse. Le commit
+# hebdomadaire qui en résulte est un rafraîchissement de données réelles,
+# pas une activité mise en scène. Si cette régularité devenait gênante,
+# c'est cette étape-ci qu'il faudrait espacer, pas le journal.
 name: Journal
 
 on:
@@ -36,14 +43,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node outils/journal.js
 
+      - name: Redessiner les graphiques
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node outils/graphiques.js
+
       - name: Publier si quelque chose a bougé
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md assets/; then
             echo "Rien de neuf cette semaine."
             exit 0
           fi
           git config user.name "Core-Agency"
           git config user.email "314745585+Core-Agency@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/
           git commit -m "Journal : dernières modifications des dépôts publics"
           git push
