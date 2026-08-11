@@ -119,13 +119,18 @@ async function main() {
   // comme des références de capture — la ligne disparaîtrait sans erreur.
   const neuf = readme.slice(0, i) + bloc + readme.slice(j + FIN.length);
 
-  if (neuf === readme) {
-    console.log("Rien de neuf : le README reste tel quel.");
+  // L'essai montre toujours ce qui serait écrit, même quand rien ne
+  // change : c'est précisément le cas qu'on vient inspecter.
+  if (essai) {
+    console.log(bloc);
+    console.log(neuf === readme
+      ? "\n→ identique au README actuel : aucun commit ne serait produit."
+      : "\n→ le README serait modifié.");
     return;
   }
 
-  if (essai) {
-    console.log(bloc);
+  if (neuf === readme) {
+    console.log("Rien de neuf : le README reste tel quel.");
     return;
   }
 
