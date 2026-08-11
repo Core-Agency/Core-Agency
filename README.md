@@ -304,6 +304,7 @@ galerie, et le même socle de commande à table que Vanilla.
 
 | | | |
 |---|---|---|
+| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [L essai du journal montre toujours le bloc, meme inchange](https://github.com/Core-Agency/Core-Agency/commit/58be3ae88e2f58ea2f57c01201a930c43aa40782) |
 | 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Le journal ne se raconte plus lui-meme](https://github.com/Core-Agency/Core-Agency/commit/479d12915c974bdb15a5cbb71700459b61b561f8) |
 | 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Ajoute le journal du profil, reconstruit chaque semaine](https://github.com/Core-Agency/Core-Agency/commit/dba59c8c41fc888d21aa1bb1c785909b480c1e00) |
 | 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Ajoute les trois nouveaux outils et la carte des douze services](https://github.com/Core-Agency/Core-Agency/commit/29a310fbaa08e96ae360a7f8ebc7b4856d3bade8) |
@@ -311,7 +312,6 @@ galerie, et le même socle de commande à table que Vanilla.
 | 11 août 2026 | [`core-seo`](https://github.com/Core-Agency/core-seo) | [Ajoute le badge de verification au README](https://github.com/Core-Agency/core-seo/commit/e7269dba773ad600eae50b277e9808ef21673b5d) |
 | 11 août 2026 | [`core-qr`](https://github.com/Core-Agency/core-qr) | [Ajoute le badge de verification au README](https://github.com/Core-Agency/core-qr/commit/d0c156b239929fe825a16ca28cb315bf6a375bd7) |
 | 11 août 2026 | [`core-contraste`](https://github.com/Core-Agency/core-contraste) | [Fait tourner le harnais sur Node 20, 22 et 24 a chaque poussee](https://github.com/Core-Agency/core-contraste/commit/2e16e94ec812402d017018740894e0bb31914fe0) |
-| 11 août 2026 | [`core-seo`](https://github.com/Core-Agency/core-seo) | [Fait tourner le harnais sur Node 20, 22 et 24 a chaque poussee](https://github.com/Core-Agency/core-seo/commit/16a9290550c79236ebf1f333b3b5d6fea8021334) |
 
 <sub>Les 8 dernières modifications des dépôts publics. Ce tableau est reconstruit par [`outils/journal.js`](outils/journal.js) et ne change que lorsque le code change.</sub>
 
