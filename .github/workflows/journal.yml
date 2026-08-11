@@ -1,0 +1,49 @@
+# Reconstruit le journal du profil à partir des dépôts publics.
+#
+# Le script n'écrit que si le contenu a réellement changé, et il ne
+# fabrique aucune date : une semaine sans travail ne produit donc aucun
+# commit. C'est voulu — un profil qui se réécrit tout seul pour dire la
+# même chose n'est pas actif, il est bruyant.
+name: Journal
+
+on:
+  schedule:
+    # Tous les lundis à 6 h UTC, avant l'ouverture des bureaux.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+# Le jeton par défaut suffit : on ne lit que du public, on n'écrit que
+# dans ce dépôt.
+permissions:
+  contents: write
+
+concurrency:
+  group: journal
+  cancel-in-progress: false
+
+jobs:
+  journal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Reconstruire le journal
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node outils/journal.js
+
+      - name: Publier si quelque chose a bougé
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Rien de neuf cette semaine."
+            exit 0
+          fi
+          git config user.name "Core-Agency"
+          git config user.email "314745585+Core-Agency@users.noreply.github.com"
+          git add README.md
+          git commit -m "Journal : dernières modifications des dépôts publics"
+          git push
