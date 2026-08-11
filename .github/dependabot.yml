@@ -1,0 +1,24 @@
+# Surveillance des versions, par Dependabot.
+#
+# Un seul écosystème est déclaré, et c'est volontaire : ces dépôts n'ont
+# AUCUNE dépendance de paquet — pas de package.json, pas de node_modules.
+# Seules les actions GitHub des workflows sont versionnées et peuvent
+# vieillir. Une action figée sur une version majeure abandonnée finit par
+# ne plus tourner, et le harnais devient muet sans que personne ne l'ait
+# décidé.
+#
+# Cadence mensuelle : ces fichiers bougent peu, et une pull request par
+# semaine pour un numéro de version serait du bruit.
+version: 2
+
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Brussels"
+    open-pull-requests-limit: 3
+    commit-message:
+      prefix: "Actions"
