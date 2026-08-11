@@ -43,6 +43,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node outils/journal.js
 
+      - name: Recompter les outils et les contrôles
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node outils/chiffres.js
+
       - name: Redessiner les graphiques
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
