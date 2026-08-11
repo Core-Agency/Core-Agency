@@ -133,14 +133,18 @@ Pas de WordPress, pas de constructeur de pages, pas de thème acheté.
 
 ## Open source
 
+<!-- chiffres:début -->
+
 Sept outils publics, tous écrits selon la même règle : **aucune dépendance,
 aucune requête réseau, aucun compte.** Ce sont les instruments que nous
 sortons pendant un chantier — un QR code à produire, un contraste à trancher,
 une facture à éditer. Ils sont ouverts parce qu'ils servent à d'autres.
 
-Chacun sort d'un besoin réel rencontré chez un client, et chacun porte son
-harnais de vérification : **327 contrôles automatisés** au total, rejoués sur
-trois versions de Node à chaque modification.
+Chacun sort d'un besoin réel rencontré chez un client. Trois d'entre eux portent un harnais de vérification :
+**327 contrôles automatisés** au total, rejoués sur trois versions de Node
+à chaque modification.
+
+<!-- chiffres:fin -->
 
 ### Core — QR
 
