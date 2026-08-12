@@ -6,11 +6,11 @@
 <title>Répartition des langages des dépôts publics</title>
 <defs><clipPath id="arrondi"><rect x="0" y="0" width="720" height="10" rx="5"/></clipPath></defs>
 <g clip-path="url(#arrondi)">
-<rect x="0.00" y="0" width="410.12" height="10" fill="#F1E05A"><title>JavaScript 57.0 %</title></rect>
-<rect x="410.12" y="0" width="155.00" height="10" fill="#663399"><title>CSS 21.5 %</title></rect>
-<rect x="565.12" y="0" width="154.88" height="10" fill="#E34C26"><title>HTML 21.5 %</title></rect>
+<rect x="0.00" y="0" width="413.42" height="10" fill="#F1E05A"><title>JavaScript 57.4 %</title></rect>
+<rect x="413.42" y="0" width="155.00" height="10" fill="#663399"><title>CSS 21.5 %</title></rect>
+<rect x="568.42" y="0" width="151.58" height="10" fill="#E34C26"><title>HTML 21.1 %</title></rect>
 </g>
-<circle cx="4" cy="30" r="4" fill="#F1E05A"/><text x="14" y="34" class="l">JavaScript <tspan class="p">57.0 %</tspan></text>
+<circle cx="4" cy="30" r="4" fill="#F1E05A"/><text x="14" y="34" class="l">JavaScript <tspan class="p">57.4 %</tspan></text>
 <circle cx="244" cy="30" r="4" fill="#663399"/><text x="254" y="34" class="l">CSS <tspan class="p">21.5 %</tspan></text>
-<circle cx="484" cy="30" r="4" fill="#E34C26"/><text x="494" y="34" class="l">HTML <tspan class="p">21.5 %</tspan></text>
+<circle cx="484" cy="30" r="4" fill="#E34C26"/><text x="494" y="34" class="l">HTML <tspan class="p">21.1 %</tspan></text>
 </svg>

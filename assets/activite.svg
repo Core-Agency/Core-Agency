@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="778" height="142" viewBox="0 0 778 142" role="img" aria-label="90 contributions sur les douze derniers mois">
+<svg xmlns="http://www.w3.org/2000/svg" width="778" height="142" viewBox="0 0 778 142" role="img" aria-label="123 contributions sur les douze derniers mois">
 <style>
   .l { font: 9px 'Lexend Deca', -apple-system, 'Segoe UI', Roboto, sans-serif; fill: #8B8B99; }
   .t { font: 600 11px 'Lexend Deca', -apple-system, 'Segoe UI', Roboto, sans-serif; fill: #8B8B99; }
 </style>
-<title>90 contributions sur les douze derniers mois</title>
+<title>123 contributions sur les douze derniers mois</title>
 <text x="86" y="14" class="l">sep</text>
 <text x="142" y="14" class="l">oct</text>
 <text x="198" y="14" class="l">nov</text>
@@ -382,10 +382,11 @@
 <rect x="744" y="64" width="11" height="11" rx="2.5" fill="#6B6B7A" fill-opacity="0.22"><title>0 le 2026-08-05</title></rect>
 <rect x="744" y="78" width="11" height="11" rx="2.5" fill="#6B6B7A" fill-opacity="0.22"><title>0 le 2026-08-06</title></rect>
 <rect x="744" y="92" width="11" height="11" rx="2.5" fill="#6B6B7A" fill-opacity="0.22"><title>0 le 2026-08-07</title></rect>
-<rect x="744" y="106" width="11" height="11" rx="2.5" fill="#7F6DE6"><title>24 le 2026-08-08</title></rect>
-<rect x="758" y="22" width="11" height="11" rx="2.5" fill="#6355E0"><title>39 le 2026-08-09</title></rect>
+<rect x="744" y="106" width="11" height="11" rx="2.5" fill="#A192EC"><title>24 le 2026-08-08</title></rect>
+<rect x="758" y="22" width="11" height="11" rx="2.5" fill="#7F6DE6"><title>39 le 2026-08-09</title></rect>
 <rect x="758" y="36" width="11" height="11" rx="2.5" fill="#C3BAF2"><title>2 le 2026-08-10</title></rect>
-<rect x="758" y="50" width="11" height="11" rx="2.5" fill="#7F6DE6"><title>25 le 2026-08-11</title></rect>
+<rect x="758" y="50" width="11" height="11" rx="2.5" fill="#6355E0"><title>58 le 2026-08-11</title></rect>
+<rect x="758" y="64" width="11" height="11" rx="2.5" fill="#6B6B7A" fill-opacity="0.22"><title>0 le 2026-08-12</title></rect>
 <text x="640" y="139" class="l">moins</text>
 <rect x="674" y="130" width="11" height="11" rx="2.5" fill="#6B6B7A" fill-opacity="0.22"/>
 <rect x="688" y="130" width="11" height="11" rx="2.5" fill="#C3BAF2"/>
