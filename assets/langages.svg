@@ -6,11 +6,15 @@
 <title>Répartition des langages des dépôts publics</title>
 <defs><clipPath id="arrondi"><rect x="0" y="0" width="720" height="10" rx="5"/></clipPath></defs>
 <g clip-path="url(#arrondi)">
-<rect x="0.00" y="0" width="413.42" height="10" fill="#F1E05A"><title>JavaScript 57.4 %</title></rect>
-<rect x="413.42" y="0" width="155.00" height="10" fill="#663399"><title>CSS 21.5 %</title></rect>
-<rect x="568.42" y="0" width="151.58" height="10" fill="#E34C26"><title>HTML 21.1 %</title></rect>
+<rect x="0.00" y="0" width="323.91" height="10" fill="#F1E05A"><title>JavaScript 45.0 %</title></rect>
+<rect x="323.91" y="0" width="152.00" height="10" fill="#012456"><title>PowerShell 21.1 %</title></rect>
+<rect x="475.91" y="0" width="121.44" height="10" fill="#663399"><title>CSS 16.9 %</title></rect>
+<rect x="597.35" y="0" width="118.76" height="10" fill="#E34C26"><title>HTML 16.5 %</title></rect>
+<rect x="716.11" y="0" width="3.89" height="10" fill="#6355E0"><title>Batchfile 0.5 %</title></rect>
 </g>
-<circle cx="4" cy="30" r="4" fill="#F1E05A"/><text x="14" y="34" class="l">JavaScript <tspan class="p">57.4 %</tspan></text>
-<circle cx="244" cy="30" r="4" fill="#663399"/><text x="254" y="34" class="l">CSS <tspan class="p">21.5 %</tspan></text>
-<circle cx="484" cy="30" r="4" fill="#E34C26"/><text x="494" y="34" class="l">HTML <tspan class="p">21.1 %</tspan></text>
+<circle cx="4" cy="30" r="4" fill="#F1E05A"/><text x="14" y="34" class="l">JavaScript <tspan class="p">45.0 %</tspan></text>
+<circle cx="148" cy="30" r="4" fill="#012456"/><text x="158" y="34" class="l">PowerShell <tspan class="p">21.1 %</tspan></text>
+<circle cx="292" cy="30" r="4" fill="#663399"/><text x="302" y="34" class="l">CSS <tspan class="p">16.9 %</tspan></text>
+<circle cx="436" cy="30" r="4" fill="#E34C26"/><text x="446" y="34" class="l">HTML <tspan class="p">16.5 %</tspan></text>
+<circle cx="580" cy="30" r="4" fill="#6355E0"/><text x="590" y="34" class="l">Batchfile <tspan class="p">0.5 %</tspan></text>
 </svg>

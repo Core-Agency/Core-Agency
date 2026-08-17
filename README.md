@@ -324,14 +324,14 @@ galerie, et le même socle de commande à table que Vanilla.
 
 | | | |
 |---|---|---|
-| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [L essai du journal montre toujours le bloc, meme inchange](https://github.com/Core-Agency/Core-Agency/commit/58be3ae88e2f58ea2f57c01201a930c43aa40782) |
-| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Le journal ne se raconte plus lui-meme](https://github.com/Core-Agency/Core-Agency/commit/479d12915c974bdb15a5cbb71700459b61b561f8) |
-| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Ajoute le journal du profil, reconstruit chaque semaine](https://github.com/Core-Agency/Core-Agency/commit/dba59c8c41fc888d21aa1bb1c785909b480c1e00) |
-| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Ajoute les trois nouveaux outils et la carte des douze services](https://github.com/Core-Agency/Core-Agency/commit/29a310fbaa08e96ae360a7f8ebc7b4856d3bade8) |
-| 11 août 2026 | [`core-contraste`](https://github.com/Core-Agency/core-contraste) | [Ajoute le badge de verification au README](https://github.com/Core-Agency/core-contraste/commit/847d74e081a19f6567f8dd77ce1f8fa355518a9d) |
-| 11 août 2026 | [`core-seo`](https://github.com/Core-Agency/core-seo) | [Ajoute le badge de verification au README](https://github.com/Core-Agency/core-seo/commit/e7269dba773ad600eae50b277e9808ef21673b5d) |
-| 11 août 2026 | [`core-qr`](https://github.com/Core-Agency/core-qr) | [Ajoute le badge de verification au README](https://github.com/Core-Agency/core-qr/commit/d0c156b239929fe825a16ca28cb315bf6a375bd7) |
-| 11 août 2026 | [`core-contraste`](https://github.com/Core-Agency/core-contraste) | [Fait tourner le harnais sur Node 20, 22 et 24 a chaque poussee](https://github.com/Core-Agency/core-contraste/commit/2e16e94ec812402d017018740894e0bb31914fe0) |
+| 12 août 2026 | [`audit-pc`](https://github.com/Core-Agency/audit-pc) | [Audit PC : outil portable de diagnostic et de triage Windows](https://github.com/Core-Agency/audit-pc/commit/407e6369cf9d599da362a6b32b7935eb590f0679) |
+| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Deduit le nombre d outils et de controles au lieu de l ecrire a la main (#13)](https://github.com/Core-Agency/Core-Agency/commit/b5ae3d40931394d3444f61d66ba60b6af49e158c) |
+| 11 août 2026 | [`core-compression-img`](https://github.com/Core-Agency/core-compression-img) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-compression-img/commit/d2ad0ca76dc68a9c99f9d2b7353988f01b7fe1cc) |
+| 11 août 2026 | [`core-seo`](https://github.com/Core-Agency/core-seo) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-seo/commit/d6eba8f162b2db811c039d607b77eb2ddd044eae) |
+| 11 août 2026 | [`core-contraste`](https://github.com/Core-Agency/core-contraste) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-contraste/commit/45e445a5fdcb0bf2429d49f3e6c2a0f4b8dbf622) |
+| 11 août 2026 | [`core-factures`](https://github.com/Core-Agency/core-factures) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-factures/commit/606b9839125860646c5fb887d846208344e160ba) |
+| 11 août 2026 | [`core-qr`](https://github.com/Core-Agency/core-qr) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-qr/commit/ba5e6408f9112e2df044f565c6ead7051611277c) |
+| 11 août 2026 | [`core-mentions-legales`](https://github.com/Core-Agency/core-mentions-legales) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-mentions-legales/commit/05fcabed44e8e45239090f8ec4e9b70076100b25) |
 
 <sub>Les 8 dernières modifications des dépôts publics. Ce tableau est reconstruit par [`outils/journal.js`](outils/journal.js) et ne change que lorsque le code change.</sub>
 
