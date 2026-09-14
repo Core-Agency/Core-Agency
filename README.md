@@ -325,13 +325,13 @@ galerie, et le même socle de commande à table que Vanilla.
 | | | |
 |---|---|---|
 | 12 août 2026 | [`audit-pc`](https://github.com/Core-Agency/audit-pc) | [Audit PC : outil portable de diagnostic et de triage Windows](https://github.com/Core-Agency/audit-pc/commit/407e6369cf9d599da362a6b32b7935eb590f0679) |
-| 11 août 2026 | [`Core-Agency`](https://github.com/Core-Agency/Core-Agency) | [Deduit le nombre d outils et de controles au lieu de l ecrire a la main (#13)](https://github.com/Core-Agency/Core-Agency/commit/b5ae3d40931394d3444f61d66ba60b6af49e158c) |
 | 11 août 2026 | [`core-compression-img`](https://github.com/Core-Agency/core-compression-img) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-compression-img/commit/d2ad0ca76dc68a9c99f9d2b7353988f01b7fe1cc) |
 | 11 août 2026 | [`core-seo`](https://github.com/Core-Agency/core-seo) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-seo/commit/d6eba8f162b2db811c039d607b77eb2ddd044eae) |
 | 11 août 2026 | [`core-contraste`](https://github.com/Core-Agency/core-contraste) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-contraste/commit/45e445a5fdcb0bf2429d49f3e6c2a0f4b8dbf622) |
 | 11 août 2026 | [`core-factures`](https://github.com/Core-Agency/core-factures) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-factures/commit/606b9839125860646c5fb887d846208344e160ba) |
 | 11 août 2026 | [`core-qr`](https://github.com/Core-Agency/core-qr) | [Relie les sept outils entre eux (#4)](https://github.com/Core-Agency/core-qr/commit/ba5e6408f9112e2df044f565c6ead7051611277c) |
 | 11 août 2026 | [`core-mentions-legales`](https://github.com/Core-Agency/core-mentions-legales) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-mentions-legales/commit/05fcabed44e8e45239090f8ec4e9b70076100b25) |
+| 11 août 2026 | [`core-calculs`](https://github.com/Core-Agency/core-calculs) | [Relie les sept outils entre eux (#1)](https://github.com/Core-Agency/core-calculs/commit/eb9edf90c7fdcc5c854d2399763a47aa92ec32c6) |
 
 <sub>Les 8 dernières modifications des dépôts publics. Ce tableau est reconstruit par [`outils/journal.js`](outils/journal.js) et ne change que lorsque le code change.</sub>
 
